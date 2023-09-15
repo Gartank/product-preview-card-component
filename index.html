@@ -13,7 +13,8 @@
 	<main>
 		<article class="product-preview">
 			<picture class="product__images">
-				<source media="(max-width: 375px)" srcset="images/image-product-mobile.jpg">
+				<source media="(min-width: 768px)" srcset="images/image-product-desktop.jpg">
+				<source media="(min-width: 375px)" srcset="images/image-product-mobile.jpg">
 				<img src="images/image-product-desktop.jpg" alt="Product Image" class="image">
 			</picture>
 			<div class="product__info">
@@ -25,7 +26,7 @@
 					<h2 class="price__discount">$149.99</h2>
 					<h3 class="price__original">$169.99</h3>
 				</div>
-				<buttom class="product__add-to-cart">
+				<buttom class="product__add-to-cart--hover">
 					<img src="images/icon-cart.svg" alt="Cart Icon" class="buttom__cart-icon">
 					Add to Cart
 				</buttom>
