@@ -32,7 +32,7 @@ Users should be able to:
 
 - Live Site URL: [Live Site](https://gartank.github.io/product-preview-card-component/)
 
-- Solution URL: [Solution Site](https://github.com/Gartank/product-preview-card-component)
+- Solution URL: [Solution Site](https://www.frontendmentor.io/solutions/product-preview-card-component-lZHDqJy6Ov)
 
 ## My process
 
@@ -60,5 +60,5 @@ I'll focus on responsive tools in my futures Projects.
 
 ## Author
 
-- GitHub - [@gartank](https://github.com/Gartank/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Gartanke)
+- GitHub - [@Gartank](https://github.com/Gartank/)
+- Frontend Mentor - [@Gartank](https://www.frontendmentor.io/profile/Gartanke)
